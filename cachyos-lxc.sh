@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 1.Install: bash -c "$(curl -fsSL https://raw.githubusercontent.com/Matze1985/PveScripts/main/cachyos-lxc.sh)"
+# 1.Install: bash -c "$(curl -fsSL https://raw.githubusercontent.com/Matze1985/PveScripts/refs/heads/main/cachyos-lxc.sh)"
 # 2. Inside container CMD 1: pacman -Syu CMD 2: pacman -S sudo nano base-devel
 
 set -e
